@@ -6,8 +6,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-dark.svg">
-  <img alt="terminal session: whoami, interests, sleep service failed, bugs keep respawning, hardware, plans, sudo rm -rf /bugs" src="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-dark.svg?v=20261124-0623">
+  <img alt="terminal session: whoami, interests, bugs keep respawning, cloud bug disposal, hardware, plans, sudo rm -rf /bugs" src="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-light.svg?v=20261124-0623">
 </picture>
 
 [/dev/null as a service](https://devnull-as-a-service.com/home/)
