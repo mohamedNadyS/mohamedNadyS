@@ -5,25 +5,10 @@
   <img alt="$ whoami — mohamed · cs & ai @ fcai, cairo university — $ uptime — 18 years of runtime, zero segfaults" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=900&color=8A5600&background=00000000&width=640&height=45&lines=%24%20whoami;mohamed%20%C2%B7%20cs%20%26%20ai%20%40%20fcai%2C%20cairo%20university;%24%20uptime;18%20years%20of%20runtime%2C%20zero%20segfaults">
 </picture>
 
-```console
-mohamed@fcai:~$ whoami
-first-year cs & ai student @ cairo university (fcai) · ex-stem school, 6th of october
-
-mohamed@fcai:~$ cat interests.txt
-computer science, ai, and building things that (mostly) work
-
-mohamed@fcai:~$ systemctl status mentoring
-● active (running) — teaching beginners to code @ stem cs club
-
-mohamed@fcai:~$ ls ~/hardware
-raspberry-pi/  arduino/  sensors/  even-more-sensors/
-
-mohamed@fcai:~$ cat plans.txt
-make things. break things. fix things. repeat.
-
-mohamed@fcai:~$ sudo rm -rf /bugs
-[sudo] permission denied - bugs remain
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-dark.svg">
+  <img alt="terminal session: whoami, interests, mentoring, hardware, plans, sudo rm -rf /bugs" src="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-light.svg">
+</picture>
 
 ## featured
 
@@ -35,8 +20,8 @@ mohamed@fcai:~$ sudo rm -rf /bugs
 ## stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,opencv,git,github,linux,raspberrypi,arduino&theme=dark">
-  <img alt="python, c++, fastapi, flask, opencv, git, github, linux, raspberry pi, arduino" src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,opencv,git,github,linux,raspberrypi,arduino&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cfastapi%2Cflask%2Copencv%2Cgit%2Cgithub%2Clinux%2Craspberrypi%2Carduino&theme=dark">
+  <img alt="python, c++, fastapi, flask, opencv, git, github, linux, raspberry pi, arduino" src="https://skillicons.dev/icons?i=python%2Ccpp%2Cfastapi%2Cflask%2Copencv%2Cgit%2Cgithub%2Clinux%2Craspberrypi%2Carduino&theme=light">
 </picture>
 
 `llms` · `langchain` · `rag` · `whisper` · `transformers` · `sql` · `sumo` · `streamlit` · `customtkinter`
@@ -56,4 +41,4 @@ mohamed@fcai:~$ sudo rm -rf /bugs
 
 ## contact
 
-mohamed120pq@gmail.com
+mohamed0011199@gmail.com
