@@ -1,16 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="722" height="376" viewBox="0 0 722 376" role="img" aria-label="terminal session: whoami, interests, mentoring, hardware, plans, sudo rm -rf /bugs">
-<rect width="722" height="376" rx="6" fill="#f6f8fa"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="722" height="437" viewBox="0 0 722 437" role="img" aria-label="terminal session: whoami, interests, sleep service failed, bugs keep respawning, hardware, plans, sudo rm -rf /bugs">
+<rect width="722" height="437" rx="6" fill="#f6f8fa"/>
 <g font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13.5" fill="#8a5600">
 <text x="16" y="31.2">mohamed@fcai:~$ whoami</text>
 <text x="16" y="51.4">first-year cs &amp; ai student @ cairo university (fcai) · ex-stem school, 6th of october</text>
 <text x="16" y="91.9">mohamed@fcai:~$ cat interests.txt</text>
 <text x="16" y="112.2">computer science, ai, and building things that (mostly) work</text>
-<text x="16" y="152.7">mohamed@fcai:~$ systemctl status mentoring</text>
-<text x="16" y="172.9">● active (running) — teaching beginners to code @ stem cs club</text>
-<text x="16" y="213.4">mohamed@fcai:~$ ls ~/hardware</text>
-<text x="16" y="233.7">raspberry-pi/  arduino/  sensors/  even-more-sensors/</text>
-<text x="16" y="274.2">mohamed@fcai:~$ cat plans.txt</text>
-<text x="16" y="294.4">make things. break things. fix things. repeat.</text>
-<text x="16" y="334.9">mohamed@fcai:~$ sudo rm -rf /bugs</text>
-<text x="16" y="355.2">[sudo] permission denied - bugs remain</text>
+<text x="16" y="152.7">mohamed@fcai:~$ systemctl status sleep.service</text>
+<text x="16" y="172.9">● failed — missing dependency: free-time.target</text>
+<text x="16" y="213.4">mohamed@fcai:~$ systemctl status bugs</text>
+<text x="16" y="233.6">● active (exited) — they keep respawning</text>
+<text x="16" y="274.1">mohamed@fcai:~$ ls ~/hardware</text>
+<text x="16" y="294.4">raspberry-pi/  arduino/  sensors/  even-more-sensors/</text>
+<text x="16" y="334.9">mohamed@fcai:~$ cat plans.txt</text>
+<text x="16" y="355.1">make things. break things. fix things. repeat.</text>
+<text x="16" y="395.6">mohamed@fcai:~$ sudo rm -rf /bugs</text>
+<text x="16" y="415.9">[sudo] permission denied - bugs remain</text>
 </g></svg>
