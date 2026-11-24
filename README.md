@@ -7,8 +7,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-dark.svg">
-  <img alt="terminal session: whoami, interests, mentoring, hardware, plans, sudo rm -rf /bugs" src="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-light.svg">
+  <img alt="terminal session: whoami, interests, sleep service failed, bugs keep respawning, hardware, plans, sudo rm -rf /bugs" src="https://raw.githubusercontent.com/mohamedNadyS/mohamedNadyS/main/assets/terminal-light.svg">
 </picture>
+
+[/dev/null as a service](https://devnull-as-a-service.com/home/)
 
 ## featured
 
